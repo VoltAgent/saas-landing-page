@@ -1,5 +1,9 @@
 # SaaS Landing Page: Structure, Copy, and What Comes After Sign-Up
 
+Template: [SaaS Landing Page on getdesign.md](https://getdesign.md/landing-page-templates/saas-landing-page) · Live demo: [starterkit-demo.getdesign.md](https://starterkit-demo.getdesign.md/)
+
+[![SaaS landing page template demo, hero section](assets/saas-landing-page-hero.jpg)](https://getdesign.md/landing-page-templates/saas-landing-page)
+
 A **SaaS landing page** has a fairly simple job: help the right visitor understand the product and decide whether to try it.
 
 That sounds easier than it is. Most templates give you a hero, three feature cards, a pricing table, and some testimonials. They solve the layout. They do not decide what the page should say, which proof belongs near the top, or what happens when the visitor clicks the button.
@@ -60,6 +64,8 @@ If the product has a simple self-serve price, showing it saves everyone time. If
 
 A pricing section should make the choice easier. Four plans with nearly identical feature lists do the opposite.
 
+[![Pricing section of the SaaS landing page template demo](assets/saas-landing-page-pricing.jpg)](https://starterkit-demo.getdesign.md/)
+
 ### 6. A final action
 
 Repeat the same primary action from the hero. The visitor has more context now, but the next step has not changed.
@@ -111,17 +117,15 @@ The calculation changes when sign-up opens an account, pricing starts a subscrip
 
 ## Starting with the web product already behind the page
 
-[![Website Starter Kit SaaS landing page hero](assets/website-starter-kit-hero.jpg)](https://getdesign.md/website-starter-kit)
+[![Features section of the SaaS landing page template demo](assets/saas-landing-page-features.jpg)](https://getdesign.md/landing-page-templates/saas-landing-page)
 
-The [Website Starter Kit](https://getdesign.md/website-starter-kit) is one way to start from both surfaces at once. It includes a marketing website and the web application behind it: authentication, roles, payments, subscriptions, product screens, AI chat, knowledge search, email, analytics, blog, documentation, and legal pages.
+The [Website Starter Kit](https://getdesign.md/website-starter-kit) is one way to start from both surfaces at once. The [SaaS Landing Page template](https://getdesign.md/landing-page-templates/saas-landing-page) is its original look, and the screenshots on this page come from its [live demo](https://starterkit-demo.getdesign.md/). It includes a marketing website and the web application behind it: authentication, roles, payments, subscriptions, product screens, AI chat, knowledge search, email, analytics, blog, documentation, and legal pages.
 
 The private `DESIGN.md` and shared component system are useful after the homepage. They give an AI coding tool persistent visual rules for the account flow, pricing page, dashboard, and later screens instead of asking it to infer the design from one page.
 
 This is not the right starting point for every SaaS idea. If you only need a waitlist this week, it is too much. It becomes relevant when the first release already needs accounts, billing, content, or a working product area.
 
 ## When the SaaS product is a mobile app
-
-[![Mobile SaaS landing page and app starter hero](assets/mobile-starter-kit-hero.jpg)](https://getdesign.md/mobile-starter-kit)
 
 Some SaaS products are used mainly through an installed app. The website still explains the product, answers questions, and points to the stores, but the important onboarding and subscription flows live on iOS and Android.
 
